@@ -15,7 +15,7 @@ This repository provides a clean, tested, and updated setup guide for using the 
 - [4. COCO API installation](setup/4_COCO_API_Installation.md)
 - [5. Install the Object Detection API](setup/5_Install_the_Object_Detection_API.md)
 
-## 🧠 Using the Framework
+## 🧠 Using the Framework (yet to be added!)
 
 - [6. Prepare Dataset](usage/6_prepare_dataset.md)
 - [7. Convert Dataset to TFRecord](usage/7_convert_to_tfrecord.md)
