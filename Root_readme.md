@@ -9,11 +9,11 @@ This repository provides a clean, tested, and updated setup guide for using the 
 
 ## 📚 Documentation
 
-- [1. Prerequisites](1_Prerequisites.md)
-- [2. CUDA & cuDNN Setup](setup/2_CUDA & cuDNN Setup.md)
-- [3. Install and Compile Protobuf](setup/3_protobuf_install.md)
-- [4. COCO API installation](setup/4_COCO API installation.md)
-- [5. Install the Object Detection API](setup/5_Install the Object Detection API.md)
+- [1. Prerequisites](setup/1_Prerequisites.md)
+- [2. CUDA & cuDNN Setup](setup/2_CUDA_&_cuDNN_Setup.md)
+- [3. Install and Compile Protobuf](setup/3_Install_and_Compile_Protobuf.md)
+- [4. COCO API installation](setup/4_COCO_API_Installation.md)
+- [5. Install the Object Detection API](setup/5_Install_the_Object_Detection_API.md)
 
 ## 🧠 Using the Framework
 
